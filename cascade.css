@@ -1,0 +1,191 @@
+.booking-head-box {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #FFCC36;
+}
+
+.booking-head-form .input-text {
+    border-color: #000 !important;
+    color: #000 !important;
+}
+
+.select-city {
+    padding: 3px 10px;
+}
+
+.booking-head-box .nav-tabs li a {
+    font-size: 20px;
+    color: #000;
+}
+
+.booking-head-box .tab-content .tab-pane {
+    padding: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    .booking-head-box .nav-tabs li a {
+        font-size: 16px;
+        color: #000;
+    }
+    .container {
+        width: 100% !important;
+    }
+    .meanmenu-reveal {
+        display: none;
+    }
+    .mean-bar {
+        position: relative;
+        z-index: 1 !important;
+    }
+}
+
+.booking-head-box .quote-btn {
+    background-color: #000 !important;
+    border: none;
+    color: #fff;
+    padding: 15px;
+    width: 100%;
+}
+
+.section-headline p {
+    width: auto;
+    max-width: 100% !important;
+    text-align: justify;
+}
+
+/*.baroda-fare-box{
+	background:url('img/cities/vadodaro_b.png');
+	background-color:rgba(0, 0, 0, 0.5);
+}*/
+
+.fun-content .fun_text h4 {
+    color: #fff;
+    min-height: 70px;
+}
+
+.fun-content .fun_text span.counter {
+    color: #fff;
+}
+
+.baroda-fare-box::before {
+    background: url(img/cities/vadodara.png);
+}
+
+.surat-fare-box::before {
+    background: url(img/cities/surat.png);
+}
+
+.fare-box {
+    position: relative;
+    z-index: 1;
+    background-color: #000;
+}
+
+.fare-box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .55;
+    z-index: -1;
+}
+
+.rajkot-fare-box::before {
+    background: url(img/cities/rajkot_small.png);
+}
+
+.bhavnagar-fare-box::before {
+    background: url(img/cities/bhavnagar_small.png);
+}
+
+.mumbai-fare-box::before {
+    background: url(img/cities/mumbai_s.png);
+}
+
+.udaipur-fare-box::before {
+    background: url(img/cities/udaipur_s.png);
+}
+
+.somnath-fare-box::before {
+    background: url(img/cities/somnath_s.png);
+}
+
+.anand-fare-box::before {
+    background: url(img/cities/anand_s.png);
+}
+
+.bhuj-fare-box::before {
+    background: url(img/cities/bhuj_s.png);
+}
+
+.vapi-fare-box::before {
+    background: url(img/cities/vapi.png);
+}
+
+.ahmedabad-fare-box::before {
+    background: url(img/cities/ahmedabad.png);
+}
+
+.ankleshwar-fare-box::before {
+    background: url(img/cities/ankleshwar_s.png);
+}
+
+.bharuch-fare-box::before {
+    background: url(img/cities/bharuch_s.png);
+}
+
+.mahesana-fare-box::before {
+    background: url(img/cities/mahesana_s.png);
+}
+
+#scrollUp {
+    display: none !important;
+}
+
+/*.mobile-menu{ padding-bottom:10px;}
+.mobile-menu .logo{ padding-left:15px; max-width:160px !important; }
+.meanmenu-reveal{ display:none !important; }*/
+
+.car-img-div {
+    text-align: center;
+}
+
+.car-img-div img {
+    width: 100%;
+}
+
+.rates .prices {
+    font-size: 24px;
+}
+
+.vehicles-callbtn-div {
+    padding-top: 10px;
+}
+
+.popular_fair_div .container div.text-center p {
+    font-size: 22px;
+    font-Weight: bold;
+    color: #000 !important;
+}
+
+.invest-area div.pri_table_list {
+    text-align: center;
+}
+
+.page-area {
+    background: url(img/background/banner_1-min.png) no-repeat scroll top center !important;
+}
+
+.services-box {
+    padding: 20px !important;
+}
+
+.services-box .rates {
+    min-height: 80px;
+}
+
+.services-box li.check {
+    min-height: 140px
+}
